@@ -1,7 +1,6 @@
 package edu.ycp.cs320.aroby.model;
 
 import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
 
 
 public class Review {
@@ -22,9 +21,8 @@ public class Review {
 		this.review = review;
 	}
 	public String getDate() {
-		DateTimeFormatter dtf = DateTimeFormatter.ofPattern("MM/dd/yyyy HH:mm");
 		LocalDateTime dt = LocalDateTime.now();
-		date = dtf.format(dt).toString();
+		date = dt.toString();
 		return date;
 	}
 	public void setDate(String date) {

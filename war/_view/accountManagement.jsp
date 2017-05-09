@@ -5,7 +5,7 @@
 <html>
 <head>
 <title>My Account</title>
-<link rel="stylesheet" type="text/css" href="accountCreation.css">
+<link rel="stylesheet" type="text/css" href="accountManagement.css">
 </head>
 <body>
 	<c:if test="${sessionScope.login != true}">

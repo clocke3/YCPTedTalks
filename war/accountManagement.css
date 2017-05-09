@@ -19,10 +19,10 @@ p{
 	color: #E62B1E;
 }
 table{
-	background-color:#b2d19e;
+	background-color:#E62B1E;
 	color: white;
 	font-size: 25px;
-	width: 130px;
+	width: 300px;
 	text-align: left;
 	margin: auto;
     border: 3px solid #E62B1E;
@@ -109,4 +109,8 @@ li a:hover {
 p{
 	font-size: 20px;
 	text-align: center;
+}
+
+td: hover a{
+	color: white;
 }
