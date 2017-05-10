@@ -34,7 +34,7 @@
 		</div>
 		</c:if>
 		<div class="about">
-		 <img src="Cicero.png"/>
+		 <img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjU2ce7kePTAhXB6oMKHTe_CeUQjRwIBw&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ACicero.PNG&psig=AFQjCNGwKivSQordD2xQnrJ7MZTdQTcYGg&ust=1494430467050880"/>
 		<h1>"Never stop learning,<br>
 		 because life never <br>
 		 stops teaching."</h1>
